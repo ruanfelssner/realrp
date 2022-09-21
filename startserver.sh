@@ -1,1 +1,1 @@
-bash /home/ubuntu/FXServer/server/run.sh +exec /home/ubuntu/FXServer/server-data/server.cfg
+bash /home/ubuntu/realrp/server/run.sh +exec /home/ubuntu/realrp/server-data/server.cfg
